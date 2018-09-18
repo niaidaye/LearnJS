@@ -1,0 +1,2 @@
+# LearnJS
+Learning about JavaScript
