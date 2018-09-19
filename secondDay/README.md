@@ -31,8 +31,9 @@ Learning about JavaScript
         - 变量声明：
             变量的声明要用var操作符，
             语法：var变量名
-
+---
             |一次声明多个变量，用逗号隔开，如： var id, sex, age, name = "marry";|
+---
         - 变量赋值：
             声明的同时赋值：var 变量名 = 值
             先声明后赋值：变量名 = 值
