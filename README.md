@@ -11,4 +11,8 @@ Learning about JavaScript
         - 可以在head或body中使用<script>嵌入JavaScript脚本
 ## [第二天](./secondDay/README.md)
 
-    1. 
+    1. 掌握JS的注释与分号
+    2. 掌握JavaScript的语法
+    3. 掌握标识符
+    4. 掌握什么是变量
+    5. 掌握变量的声明与赋值

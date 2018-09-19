@@ -1,4 +1,4 @@
-# LearnJS
+# [LearnJS](../README.md)
 
 Learning about JavaScript
 
