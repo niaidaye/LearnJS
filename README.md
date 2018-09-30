@@ -24,3 +24,21 @@ Learning about JavaScript
     2. 掌握typeof操作符
     3. 掌握Undefined
     4. 掌握null
+
+## [第四天](./fourthDay/README.md)
+
+    1. 掌握Number
+    2. 掌握isNaN()
+    3. 掌握数值转换
+        1. Number()
+        2. parseInt()
+        3. parseFloat()
+
+## [第六天](./sixthDay/README.md)
+    
+>    1. JavaScript-输出内容(document.write)
+>    2. JavaScript-警告(alert)
+>    3. JavaScript-确认(confirm)
+>    4. JavaScript-提问(prompt)
+>    4. JavaScript-打开新窗口(window.open)
+>    5. JavaScript-关闭新窗口(window.close)
